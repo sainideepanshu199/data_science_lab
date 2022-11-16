@@ -1,7 +1,7 @@
 import random
 
-enemy = random.choice (["chihuahua", "border collie", "wolf"])
-father = random.choice (["John", "Mr.Pickles", "Hairyface", "Willy Wonka", "Steve", "Bob"])
+enemy = random.choice (["trex", "muscle man", "wolf"])
+father = random.choice (["John", "professor", "walter white", "james edward", "Steve", "Bob"])
 enemyadj = ["grimy", "muddy", "awful", "grotesque", "hideous", "adorable", "cute"]
 intro1 = "I was sitting on the edge of the rocky cliff beside my favourite tree."
 intro2 = "Alone in the searing desert, I was wondering why I was leaning against a cactus."
